@@ -2,8 +2,8 @@ welcome here
 
 
 more changes here for test
-
-can I go back to previous versions and make changeds there?
+# typo had been edited
+can I go back to previous versions and make changes there?
 
 goodbye
 
